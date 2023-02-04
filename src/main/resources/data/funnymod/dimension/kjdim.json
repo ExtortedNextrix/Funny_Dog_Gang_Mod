@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 153603543,
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:checkerboard",
+      "scale": 3,
+      "biomes": [
+        "minecraft:beach",
+        "minecraft:birch_forest",
+        "minecraft:bamboo_jungle",
+        "minecraft:badlands",
+        "minecraft:forest",
+        "minecraft:jagged_peaks",
+        "minecraft:snowy_taiga",
+        "minecraft:the_void",
+        "minecraft:plains"
+      ]
+    }
+  }
+}
